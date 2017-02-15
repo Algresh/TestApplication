@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApplication</string>
+    <string name="urlSite">Адрес сайта</string>
+    <string name="showHTMLText">Отобразить HTML код</string>
+    <string name="pleaseWait">Пожалуйста подождите</string>
+    <string name="wrongUrl">Неверный url</string>
+    <string name="noInternetAccess">Нет доступа к интернету</string>
+    <string name="connectError">Произошла ошибка</string>
+</resources>
